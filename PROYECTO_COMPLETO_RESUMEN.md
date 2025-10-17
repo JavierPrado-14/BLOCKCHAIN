@@ -260,6 +260,123 @@ python test_realtime_dashboard.py
 
 ---
 
+## 📚 **FUENTES CONSULTADAS**
+
+### **Documentación Oficial:**
+
+1. **Streamlit Framework**
+   - Streamlit Documentation. (2024). *Streamlit API Reference and Tutorials*. 
+   - URL: https://docs.streamlit.io/
+   - Utilizado para: Desarrollo del dashboard interactivo y controles de tiempo real
+
+2. **Google Gemini AI**
+   - Google AI for Developers. (2024). *Gemini API Documentation*. 
+   - URL: https://ai.google.dev/docs
+   - Utilizado para: Integración de análisis inteligente con Gemini 2.5 Flash
+
+3. **R3 Corda**
+   - R3 Corda. (2024). *Corda Documentation - Open Source Blockchain Platform*. 
+   - URL: https://docs.r3.com/
+   - Utilizado para: Comprensión de arquitectura blockchain y estructura de transacciones
+
+4. **PostgreSQL**
+   - PostgreSQL Global Development Group. (2024). *PostgreSQL Documentation*. 
+   - URL: https://www.postgresql.org/docs/
+   - Utilizado para: Diseño de base de datos y optimización de consultas
+
+5. **Plotly**
+   - Plotly Technologies Inc. (2024). *Plotly Python Graphing Library*. 
+   - URL: https://plotly.com/python/
+   - Utilizado para: Creación de visualizaciones interactivas y gráficos avanzados
+
+6. **Scikit-learn**
+   - Pedregosa, F. et al. (2024). *Scikit-learn: Machine Learning in Python*. 
+   - URL: https://scikit-learn.org/stable/documentation.html
+   - Utilizado para: Implementación de algoritmos de machine learning para detección de anomalías
+
+7. **Faker Library**
+   - Joke2k. (2024). *Faker - Python Package for Fake Data Generation*. 
+   - URL: https://faker.readthedocs.io/
+   - Utilizado para: Generación de datos de prueba realistas
+
+8. **Psycopg2**
+   - Psycopg Team. (2024). *Psycopg - PostgreSQL Adapter for Python*. 
+   - URL: https://www.psycopg.org/docs/
+   - Utilizado para: Conexión y operaciones con PostgreSQL
+
+### **Recursos de Aprendizaje:**
+
+9. **Python Software Foundation**
+   - Python.org. (2024). *Python 3.11 Documentation*. 
+   - URL: https://docs.python.org/3/
+   - Utilizado para: Referencia del lenguaje Python y librerías estándar
+
+10. **Render Platform**
+    - Render Services Inc. (2024). *Render PostgreSQL Documentation*. 
+    - URL: https://render.com/docs/databases
+    - Utilizado para: Configuración y despliegue de base de datos PostgreSQL
+
+11. **Real Python**
+    - Real Python. (2024). *Python Tutorials - Data Visualization and Dashboard Development*. 
+    - URL: https://realpython.com/
+    - Utilizado para: Mejores prácticas en desarrollo de dashboards con Python
+
+12. **Medium - Towards Data Science**
+    - Towards Data Science. (2024). *Articles on Streamlit, Data Analysis and ML*. 
+    - URL: https://towardsdatascience.com/
+    - Utilizado para: Técnicas avanzadas de visualización y análisis de datos
+
+### **Referencias Técnicas:**
+
+13. **Stack Overflow**
+    - Stack Overflow Community. (2024). *Programming Q&A Platform*. 
+    - URL: https://stackoverflow.com/
+    - Utilizado para: Resolución de problemas técnicos específicos
+
+14. **GitHub Documentation**
+    - GitHub, Inc. (2024). *GitHub Docs - Version Control and Collaboration*. 
+    - URL: https://docs.github.com/
+    - Utilizado para: Control de versiones y gestión del proyecto
+
+15. **Blockchain Council**
+    - Blockchain Council. (2024). *Enterprise Blockchain Solutions*. 
+    - URL: https://www.blockchain-council.org/
+    - Utilizado para: Conceptos fundamentales de blockchain empresarial
+
+### **Artículos Académicos y Whitepapers:**
+
+16. **Nakamoto, S.** (2008). *Bitcoin: A Peer-to-Peer Electronic Cash System*. 
+    - Utilizado para: Fundamentos de tecnología blockchain
+
+17. **Brown, R.G.** (2018). *The Corda Platform: An Introduction*. R3 Whitepaper. 
+    - Utilizado para: Arquitectura específica de Corda
+
+### **Herramientas de Desarrollo:**
+
+18. **Visual Studio Code**
+    - Microsoft. (2024). *VS Code Documentation*. 
+    - URL: https://code.visualstudio.com/docs
+    - Utilizado como: Entorno de desarrollo integrado
+
+19. **Git**
+    - Git SCM. (2024). *Git Documentation*. 
+    - URL: https://git-scm.com/doc
+    - Utilizado para: Control de versiones del código
+
+20. **pip - Python Package Installer**
+    - Python Packaging Authority. (2024). *pip Documentation*. 
+    - URL: https://pip.pypa.io/
+    - Utilizado para: Gestión de dependencias del proyecto
+
+### **Nota sobre el uso de IA:**
+Durante el desarrollo de este proyecto, se utilizó asistencia de IA (Claude, ChatGPT) para:
+- Optimización de código y mejores prácticas
+- Debugging y resolución de problemas técnicos
+- Generación de documentación
+- Sugerencias de diseño de arquitectura
+
+---
+
 ## 🏆 **CONCLUSIÓN**
 
 **¡PROYECTO COMPLETADO EXITOSAMENTE! 🎉**
@@ -280,3 +397,4 @@ Se ha transformado un dashboard básico en una **herramienta de análisis en tie
 **🚀 ¡Disfruta de tu nuevo dashboard con Gemini AI!**
 
 **URL:** http://localhost:8501
+
